@@ -1,0 +1,25 @@
+{
+  "name": "12-sql-challange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joeybooo/12-sql-challange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joeybooo/12-sql-challange/issues"
+  },
+  "homepage": "https://github.com/Joeybooo/12-sql-challange#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^8.2.4",
+    "sql": "^0.78.0"
+  }
+}
